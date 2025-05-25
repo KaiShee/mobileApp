@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "184180351408",
+    "project_id": "ezystay-flutter-app",
+    "storage_bucket": "ezystay-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184180351408:android:25bd291de6604b10fbb675",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYUVucuAmG7LG4hrlwm7EdqyTT44PDuaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
